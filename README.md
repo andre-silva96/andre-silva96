@@ -1,7 +1,8 @@
-## Hello World! 👋
-## Sejam Bem Vindos! Eu sou André Silva
+## Hello World! 👋 I'm André Silva | :brazil:
 
-- 🌱 Atualmente estudando **JavaScript**
+:arrow_right: :white_check_mark: HTML5 e CSS3
+:arrow_right: :memo: Atualmente estudando **JavaScript** :beginner:
+
 
 <div>
   <a href="htt´s://girhub.com/andre-silva96">
