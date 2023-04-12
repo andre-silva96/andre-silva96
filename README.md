@@ -1,7 +1,11 @@
 ## Hello World! 👋 I'm André Silva
+## Desenvolvedor Front-End
 
 :arrow_right: :white_check_mark: HTML5 e CSS3 <br>
-:arrow_right: :memo: Atualmente estudando **JavaScript** :beginner:
+:arrow_right: :memo: JavaScript
+➡️ ✅ TypeScript
+➡️ ✅ Git
+➡️ 📝 Estudando **React JS**
 
 
 <div>
