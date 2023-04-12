@@ -2,7 +2,7 @@
 ## Desenvolvedor Front-End
 
 :arrow_right: :white_check_mark: HTML5 e CSS3 <br>
-:arrow_right: :memo: JavaScript <br>
+:arrow_right: ✅ JavaScript <br>
 ➡️ ✅ TypeScript <br>
 ➡️ ✅ Git <br>
 ➡️ 📝 Estudando **React JS** <br>
